@@ -9,3 +9,7 @@
 2. on startup user is presented with option to parse existing sms to import expenses
 
 3. all source and sink accounts are used by their defalut name - htere is a simple/intutive way to add tags to these accounts but app does not ask user to tag them in 1st go - focus on showing results as soon as you can - instead of configuring app for 10 mins
+
+4. store no readalble user data on server
+
+5. No advertisement is a preresqusite - you may ask for donations though
